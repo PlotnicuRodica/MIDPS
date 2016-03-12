@@ -3,6 +3,6 @@ using namespace std;
 
 int main ()
 {
-	cout<<"master";
+ 	cout<<"conflict resolved";
 	return 0;
 }
