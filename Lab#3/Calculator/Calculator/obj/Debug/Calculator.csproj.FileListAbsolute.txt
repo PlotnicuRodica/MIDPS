@@ -1,0 +1,9 @@
+E:\UTM\MIDPS\MIDPS_lab3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\UTM\MIDPS\MIDPS_lab3\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\UTM\MIDPS\MIDPS_lab3\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\UTM\MIDPS\MIDPS_lab3\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\UTM\MIDPS\MIDPS_lab3\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\UTM\MIDPS\MIDPS_lab3\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\UTM\MIDPS\MIDPS_lab3\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\UTM\MIDPS\MIDPS_lab3\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\UTM\MIDPS\MIDPS_lab3\Calculator\Calculator\obj\Debug\Calculator.pdb
