@@ -1,0 +1,38 @@
+p {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+}
+
+h2 {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+}
+
+h3 {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+}
+
+h1 {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+}
+
+div{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+body{
+    background:url("http://name1.ru/img/bg.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:0px 0px;
+
+}
+table {
+background: rgba(255,255,255,0.6);
+}
